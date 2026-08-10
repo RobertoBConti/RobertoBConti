@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/RobertoBConti/RobertoBConti/snake-output/snake.svg" alt="Snake animation" />
+<img data-importer="snake" src="https://raw.githubusercontent.com/RobertoBConti/RobertoBConti/refs/heads/main/snake.svg" alt="Snake animation" />
 
 ###
